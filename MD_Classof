@@ -1,0 +1,237 @@
+speed 40
+rt 90
+dot lightblue, 20
+fd 20
+pen lightblue, 10
+fd 20
+pen white, 0
+fd 20
+dot lightblue, 20
+fd 20 
+pen lightblue, 10
+fd 20
+pen white, 0
+fd 20 
+dot lightblue, 20
+fd 20
+dot lightblue, 20
+fd 20
+dot lightblue, 20
+fd 20 
+dot lightblue, 20
+fd 20
+pen lightblue, 10
+fd 20
+pen white, 0 
+fd 20 
+dot lightblue, 20
+fd 20
+dot lightblue, 20
+fd 20
+pen lightblue, 10
+fd 20
+home()
+rt 180
+pen white, 0
+fd 30
+lt 90
+pen lightgreen, 10
+fd 20
+pen white, 0 
+fd 20
+dot lightgreen, 20
+fd 20
+pen lightgreen, 10
+fd 20
+pen white, 0
+fd 20
+dot lightgreen, 20
+fd 20
+dot lightgreen, 20
+fd 20
+pen lightgreen, 10
+fd 20
+pen white, 0
+fd 20 
+pen lightgreen, 10
+fd 20
+pen white, 0
+fd 20
+pen lightgreen, 10
+fd 20
+pen white, 0
+fd 20
+dot lightgreen, 20
+fd 20
+pen lightgreen, 10
+fd 20
+pen white, 0
+fd 20 
+pen lightgreen, 10
+fd 20
+pen white, 0
+fd 20
+dot lightgreen, 20
+fd 20
+pen lightgreen, 10
+fd 20
+pen white, 0
+fd 20 
+pen lightgreen, 10
+fd 20
+pen white, 0
+fd 20
+pen lightgreen, 10
+fd 20
+pen white, 0
+fd 20
+dot lightgreen, 20
+fd 20
+dot lightgreen, 20
+fd 20
+dot lightgreen, 20
+fd 20
+home()
+rt 180
+fd 60
+pen orange, 10
+lt 90
+fd 20 
+pen white, 0
+fd 20
+dot orange, 20
+fd 20
+pen orange, 10
+fd 20
+pen white, 0 
+fd 20
+dot orange, 20
+fd 20
+dot orange, 20
+fd 20
+pen orange, 10
+fd 20
+pen white, 0
+fd 20
+dot orange, 20
+fd 20
+dot orange, 20
+fd 20
+dot orange, 20
+fd 20
+pen orange, 10
+fd 20
+pen white, 0
+fd 20
+dot orange, 20
+fd 20
+dot orange, 20
+fd 20
+dot orange, 20
+fd 20
+dot orange, 20
+fd 20
+dot orange, 20
+fd 20
+dot orange, 20
+fd 20
+home()
+rt 180
+fd 90
+pen violet, 10
+lt 90
+fd 20 
+pen white, 0
+fd 20
+pen violet, 10
+fd 20
+pen white, 0
+fd 20
+pen violet, 10
+fd 20
+pen white, 0
+fd 20
+dot violet, 20
+fd 20
+dot violet, 20
+fd 20
+pen violet, 10
+fd 20
+pen white, 0
+fd 20
+dot violet, 20
+fd 20
+home()
+rt 180
+fd 120
+dot bisque, 20
+lt 90
+fd 20
+dot bisque, 20
+fd 20
+pen bisque, 10
+fd 20 
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+dot bisque, 20
+fd 20 
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+pen bisque, 10
+fd 20
+pen white, 0
+fd 20
+dot bisque, 20
+fd 20
+dot bisque, 20
+fd 20
