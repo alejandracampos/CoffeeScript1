@@ -1,0 +1,11 @@
+pen red, 4
+fd 60; label 'Go'
+rt 40
+fd 40
+dot gold, 15
+rt 100
+fd 40
+rt 40
+fd 60
+rt 90
+fd 50
