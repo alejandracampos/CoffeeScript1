@@ -1,0 +1,13 @@
+speed 5
+pen blue
+fd 50
+rt 90
+bk 10
+lt 45
+fd 60
+lt 90
+bk 60
+lt 45
+fd 10
+lt 90
+fd 50
