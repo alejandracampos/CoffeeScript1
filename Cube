@@ -1,0 +1,37 @@
+speed 50
+pen blue 
+for [1..4]
+  fd 100
+  rt 90
+pen transparent
+lt 90
+fd 60
+rt 90
+fd 20
+pen blue 
+for [1..4]
+  fd 100
+  rt 90
+rt 108
+fd 65
+home()
+fd 100
+lt 70
+fd 65
+pen transparent
+rt 160
+fd 100
+pen blue
+rt 20
+fd 60
+rt 70
+pen transparent
+fd 100
+pen blue 
+rt 110
+fd 60
+home()
+pen transparent
+rt 110
+fd 200
+rt 120
