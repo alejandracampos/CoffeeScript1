@@ -1,2 +1,2 @@
 # Coffeescript1
-Homework Assignments
+Homework - Assignments
