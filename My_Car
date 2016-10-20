@@ -1,0 +1,15 @@
+speed 20
+pen black
+rt 360, 20
+lt 90
+pen gray
+fd 60
+pen black
+lt 90 
+rt 540, 20
+pen blue
+fd 10 
+rt 90, 20
+moveto 1, 50
+fd 30
+moveto 40, 8
